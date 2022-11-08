@@ -21,6 +21,8 @@ Deployment of the Microsoft Sentinel Solution for SAP is divided into the follow
 
 1. [Prepare SAP environment](preparing-sap.md)
 
+1. [Configure coverage profile](configurtation-coverage-profiles.md)
+
 1. **Deploy data connector agent (*You are here*)**
 
 1. [Deploy SAP security content](deploy-sap-security-content.md)
