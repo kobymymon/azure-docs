@@ -8,7 +8,6 @@ ms.date: 11/08/2022
 ---
 
 
-
 # Select SAP ingestion profile
  
 The following are typical customer configuration profiles for SAP log ingestion. Notably Microsoft is updating the below profiles from times to times.
